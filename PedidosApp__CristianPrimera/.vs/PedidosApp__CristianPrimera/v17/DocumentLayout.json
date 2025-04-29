@@ -3,11 +3,15 @@
   "WorkspaceRootPath": "C:\\Users\\user\\OneDrive\\Escritorio\\HerramientasProgramacion\\PedidosApp_CristianPrimera\\PedidosApp__CristianPrimera\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{88666897-2834-49BC-8134-7E1B43B4B50F}|PedidosApp__CristianPrimera\\PedidosApp__CristianPrimera.csproj|c:\\users\\user\\onedrive\\escritorio\\herramientasprogramacion\\pedidosapp_cristianprimera\\pedidosapp__cristianprimera\\pedidosapp__cristianprimera\\pedido.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{88666897-2834-49BC-8134-7E1B43B4B50F}|PedidosApp__CristianPrimera\\PedidosApp__CristianPrimera.csproj|solutionrelative:pedidosapp__cristianprimera\\pedido.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{88666897-2834-49BC-8134-7E1B43B4B50F}|PedidosApp__CristianPrimera\\PedidosApp__CristianPrimera.csproj|c:\\users\\user\\onedrive\\escritorio\\herramientasprogramacion\\pedidosapp_cristianprimera\\pedidosapp__cristianprimera\\pedidosapp__cristianprimera\\factorymethod.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{88666897-2834-49BC-8134-7E1B43B4B50F}|PedidosApp__CristianPrimera\\PedidosApp__CristianPrimera.csproj|solutionrelative:pedidosapp__cristianprimera\\factorymethod.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{88666897-2834-49BC-8134-7E1B43B4B50F}|PedidosApp__CristianPrimera\\PedidosApp__CristianPrimera.csproj|c:\\users\\user\\onedrive\\escritorio\\herramientasprogramacion\\pedidosapp_cristianprimera\\pedidosapp__cristianprimera\\pedidosapp__cristianprimera\\estrategiasentrega.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{88666897-2834-49BC-8134-7E1B43B4B50F}|PedidosApp__CristianPrimera\\PedidosApp__CristianPrimera.csproj|C:\\Users\\user\\OneDrive\\Escritorio\\HerramientasProgramacion\\PedidosApp_CristianPrimera\\PedidosApp__CristianPrimera\\pedidosapp__cristianprimera\\estrategiasentrega.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{88666897-2834-49BC-8134-7E1B43B4B50F}|PedidosApp__CristianPrimera\\PedidosApp__CristianPrimera.csproj|solutionrelative:pedidosapp__cristianprimera\\estrategiasentrega.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
@@ -31,6 +35,19 @@
             {
               "$type": "Document",
               "DocumentIndex": 0,
+              "Title": "Pedido.cs",
+              "DocumentMoniker": "C:\\Users\\user\\OneDrive\\Escritorio\\HerramientasProgramacion\\PedidosApp_CristianPrimera\\PedidosApp__CristianPrimera\\PedidosApp__CristianPrimera\\Pedido.cs",
+              "RelativeDocumentMoniker": "PedidosApp__CristianPrimera\\Pedido.cs",
+              "ToolTip": "C:\\Users\\user\\OneDrive\\Escritorio\\HerramientasProgramacion\\PedidosApp_CristianPrimera\\PedidosApp__CristianPrimera\\PedidosApp__CristianPrimera\\Pedido.cs",
+              "RelativeToolTip": "PedidosApp__CristianPrimera\\Pedido.cs",
+              "ViewState": "AgIAAA4AAAAAAAAAAAA7wBMAAAAeAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-29T18:57:26.832Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
               "Title": "FactoryMethod.cs",
               "DocumentMoniker": "C:\\Users\\user\\OneDrive\\Escritorio\\HerramientasProgramacion\\PedidosApp_CristianPrimera\\PedidosApp__CristianPrimera\\PedidosApp__CristianPrimera\\FactoryMethod.cs",
               "RelativeDocumentMoniker": "PedidosApp__CristianPrimera\\FactoryMethod.cs",
@@ -43,7 +60,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 2,
               "Title": "EstrategiasEntrega.cs",
               "DocumentMoniker": "C:\\Users\\user\\OneDrive\\Escritorio\\HerramientasProgramacion\\PedidosApp_CristianPrimera\\PedidosApp__CristianPrimera\\PedidosApp__CristianPrimera\\EstrategiasEntrega.cs",
               "RelativeDocumentMoniker": "PedidosApp__CristianPrimera\\EstrategiasEntrega.cs",
@@ -51,12 +68,11 @@
               "RelativeToolTip": "PedidosApp__CristianPrimera\\EstrategiasEntrega.cs",
               "ViewState": "AgIAAAkAAAAAAAAAAAA4wBMAAAA5AAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-04-29T18:52:24.036Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-04-29T18:52:24.036Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 3,
               "Title": "I_Entrega.cs",
               "DocumentMoniker": "C:\\Users\\user\\OneDrive\\Escritorio\\HerramientasProgramacion\\PedidosApp_CristianPrimera\\PedidosApp__CristianPrimera\\PedidosApp__CristianPrimera\\I_Entrega.cs",
               "RelativeDocumentMoniker": "PedidosApp__CristianPrimera\\I_Entrega.cs",
@@ -68,7 +84,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 4,
               "Title": "Form1.cs [Dise\u00F1o]",
               "DocumentMoniker": "C:\\Users\\user\\OneDrive\\Escritorio\\HerramientasProgramacion\\PedidosApp_CristianPrimera\\PedidosApp__CristianPrimera\\PedidosApp__CristianPrimera\\Form1.cs",
               "RelativeDocumentMoniker": "PedidosApp__CristianPrimera\\Form1.cs",
