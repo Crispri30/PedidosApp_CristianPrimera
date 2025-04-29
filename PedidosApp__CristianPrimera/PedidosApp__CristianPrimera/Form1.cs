@@ -36,5 +36,11 @@ namespace PedidosApp__CristianPrimera
                 MessageBox.Show("Error: " + ex.Message);
             }
         }
+
+        private void bttHistorial_Click(object sender, EventArgs e)
+        {
+            HistorialPedidos historialForm = new HistorialPedidos();
+            historialForm.ShowDialog();
+        }
     }
 }

@@ -15,6 +15,8 @@ namespace PedidosApp__CristianPrimera
             {
                 if (tipoProducto == "tecnología" && urgente)
                     return new EntregaDron();
+                else if(tipoProducto == "accesorio" && peso < 2 && !urgente)
+                    return new EntregaBicicleta();
                 else if (tipoProducto == "accesorio")
                     return new EntregaMoto();
                 else if (tipoProducto == "componente" || peso > 10)
