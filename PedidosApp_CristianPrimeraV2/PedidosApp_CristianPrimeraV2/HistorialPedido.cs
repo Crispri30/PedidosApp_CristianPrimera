@@ -16,6 +16,8 @@ namespace PedidosApp_CristianPrimeraV2
         public HistorialPedido()
         {
             InitializeComponent();
+
+            this.Load += HistorialPedidos_Load; // ← CONECTAR EL EVENTO LOAD
             cmbFiltro.SelectedIndexChanged += cmbFiltro_SelectedIndexChanged;
 
         }

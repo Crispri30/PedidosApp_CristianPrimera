@@ -29,7 +29,6 @@
         private void InitializeComponent()
         {
             txtCliente = new TextBox();
-            cmbProducto = new ComboBox();
             chkUrgente = new CheckBox();
             nudPeso = new NumericUpDown();
             nudDistancia = new NumericUpDown();
@@ -41,6 +40,8 @@
             label3 = new Label();
             label4 = new Label();
             label5 = new Label();
+            cmbProducto = new ComboBox();
+            lblResultado2 = new Label();
             ((System.ComponentModel.ISupportInitialize)nudPeso).BeginInit();
             ((System.ComponentModel.ISupportInitialize)nudDistancia).BeginInit();
             SuspendLayout();
@@ -51,14 +52,6 @@
             txtCliente.Name = "txtCliente";
             txtCliente.Size = new Size(100, 23);
             txtCliente.TabIndex = 0;
-            // 
-            // cmbProducto
-            // 
-            cmbProducto.FormattingEnabled = true;
-            cmbProducto.Location = new Point(312, 99);
-            cmbProducto.Name = "cmbProducto";
-            cmbProducto.Size = new Size(121, 23);
-            cmbProducto.TabIndex = 1;
             // 
             // chkUrgente
             // 
@@ -87,20 +80,20 @@
             // lblResultado
             // 
             lblResultado.AutoSize = true;
-            lblResultado.Location = new Point(312, 328);
+            lblResultado.Location = new Point(260, 328);
             lblResultado.Name = "lblResultado";
-            lblResultado.Size = new Size(38, 15);
+            lblResultado.Size = new Size(0, 15);
             lblResultado.TabIndex = 5;
-            lblResultado.Text = "label1";
             // 
             // btnCalcular
             // 
-            btnCalcular.Location = new Point(435, 308);
+            btnCalcular.Location = new Point(196, 308);
             btnCalcular.Name = "btnCalcular";
             btnCalcular.Size = new Size(142, 54);
             btnCalcular.TabIndex = 6;
             btnCalcular.Text = "Calcular";
             btnCalcular.UseVisualStyleBackColor = true;
+            btnCalcular.Click += btnCalcular_Click;
             // 
             // bttHistorial
             // 
@@ -157,11 +150,30 @@
             label5.TabIndex = 12;
             label5.Text = "Distancia";
             // 
+            // cmbProducto
+            // 
+            cmbProducto.FormattingEnabled = true;
+            cmbProducto.Location = new Point(312, 99);
+            cmbProducto.Name = "cmbProducto";
+            cmbProducto.Size = new Size(121, 23);
+            cmbProducto.TabIndex = 13;
+            // 
+            // lblResultado2
+            // 
+            lblResultado2.AutoSize = true;
+            lblResultado2.Location = new Point(447, 328);
+            lblResultado2.Name = "lblResultado2";
+            lblResultado2.Size = new Size(59, 15);
+            lblResultado2.TabIndex = 14;
+            lblResultado2.Text = "Resultado";
+            // 
             // Form1
             // 
             AutoScaleDimensions = new SizeF(7F, 15F);
             AutoScaleMode = AutoScaleMode.Font;
             ClientSize = new Size(800, 450);
+            Controls.Add(lblResultado2);
+            Controls.Add(cmbProducto);
             Controls.Add(label5);
             Controls.Add(label4);
             Controls.Add(label3);
@@ -173,7 +185,6 @@
             Controls.Add(nudDistancia);
             Controls.Add(nudPeso);
             Controls.Add(chkUrgente);
-            Controls.Add(cmbProducto);
             Controls.Add(txtCliente);
             Name = "Form1";
             Text = "Form1";
@@ -186,7 +197,6 @@
         #endregion
 
         private TextBox txtCliente;
-        private ComboBox cmbProducto;
         private CheckBox chkUrgente;
         private NumericUpDown nudPeso;
         private NumericUpDown nudDistancia;
@@ -198,5 +208,7 @@
         private Label label3;
         private Label label4;
         private Label label5;
+        private ComboBox cmbProducto;
+        private Label lblResultado2;
     }
 }
