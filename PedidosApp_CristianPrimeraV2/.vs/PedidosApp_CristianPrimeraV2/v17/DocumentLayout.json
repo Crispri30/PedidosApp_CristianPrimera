@@ -3,14 +3,6 @@
   "WorkspaceRootPath": "C:\\Users\\user\\OneDrive\\Escritorio\\HerramientasProgramacion\\PedidosApp_CristianPrimera\\PedidosApp_CristianPrimeraV2\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{C2CC93D8-087C-4E3B-BF1B-1623FF688E8A}|PedidosApp_CristianPrimeraV2\\PedidosApp_CristianPrimeraV2.csproj|C:\\Users\\user\\OneDrive\\Escritorio\\HerramientasProgramacion\\PedidosApp_CristianPrimera\\PedidosApp_CristianPrimeraV2\\pedidosapp_cristianprimerav2\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
-      "RelativeMoniker": "D:0:0:{C2CC93D8-087C-4E3B-BF1B-1623FF688E8A}|PedidosApp_CristianPrimeraV2\\PedidosApp_CristianPrimeraV2.csproj|solutionrelative:pedidosapp_cristianprimerav2\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{C2CC93D8-087C-4E3B-BF1B-1623FF688E8A}|PedidosApp_CristianPrimeraV2\\PedidosApp_CristianPrimeraV2.csproj|c:\\users\\user\\onedrive\\escritorio\\herramientasprogramacion\\pedidosapp_cristianprimera\\pedidosapp_cristianprimerav2\\pedidosapp_cristianprimerav2\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{C2CC93D8-087C-4E3B-BF1B-1623FF688E8A}|PedidosApp_CristianPrimeraV2\\PedidosApp_CristianPrimeraV2.csproj|solutionrelative:pedidosapp_cristianprimerav2\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{C2CC93D8-087C-4E3B-BF1B-1623FF688E8A}|PedidosApp_CristianPrimeraV2\\PedidosApp_CristianPrimeraV2.csproj|c:\\users\\user\\onedrive\\escritorio\\herramientasprogramacion\\pedidosapp_cristianprimera\\pedidosapp_cristianprimerav2\\pedidosapp_cristianprimerav2\\estrategiasentrega.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{C2CC93D8-087C-4E3B-BF1B-1623FF688E8A}|PedidosApp_CristianPrimeraV2\\PedidosApp_CristianPrimeraV2.csproj|solutionrelative:pedidosapp_cristianprimerav2\\estrategiasentrega.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
@@ -23,8 +15,16 @@
       "RelativeMoniker": "D:0:0:{C2CC93D8-087C-4E3B-BF1B-1623FF688E8A}|PedidosApp_CristianPrimeraV2\\PedidosApp_CristianPrimeraV2.csproj|solutionrelative:pedidosapp_cristianprimerav2\\pedido.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
+      "AbsoluteMoniker": "D:0:0:{C2CC93D8-087C-4E3B-BF1B-1623FF688E8A}|PedidosApp_CristianPrimeraV2\\PedidosApp_CristianPrimeraV2.csproj|c:\\users\\user\\onedrive\\escritorio\\herramientasprogramacion\\pedidosapp_cristianprimera\\pedidosapp_cristianprimerav2\\pedidosapp_cristianprimerav2\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C2CC93D8-087C-4E3B-BF1B-1623FF688E8A}|PedidosApp_CristianPrimeraV2\\PedidosApp_CristianPrimeraV2.csproj|solutionrelative:pedidosapp_cristianprimerav2\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{C2CC93D8-087C-4E3B-BF1B-1623FF688E8A}|PedidosApp_CristianPrimeraV2\\PedidosApp_CristianPrimeraV2.csproj|c:\\users\\user\\onedrive\\escritorio\\herramientasprogramacion\\pedidosapp_cristianprimera\\pedidosapp_cristianprimerav2\\pedidosapp_cristianprimerav2\\registropedidos.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{C2CC93D8-087C-4E3B-BF1B-1623FF688E8A}|PedidosApp_CristianPrimeraV2\\PedidosApp_CristianPrimeraV2.csproj|solutionrelative:pedidosapp_cristianprimerav2\\registropedidos.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C2CC93D8-087C-4E3B-BF1B-1623FF688E8A}|PedidosApp_CristianPrimeraV2\\PedidosApp_CristianPrimeraV2.csproj|c:\\users\\user\\onedrive\\escritorio\\herramientasprogramacion\\pedidosapp_cristianprimera\\pedidosapp_cristianprimerav2\\pedidosapp_cristianprimerav2\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{C2CC93D8-087C-4E3B-BF1B-1623FF688E8A}|PedidosApp_CristianPrimeraV2\\PedidosApp_CristianPrimeraV2.csproj|solutionrelative:pedidosapp_cristianprimerav2\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
     },
     {
       "AbsoluteMoniker": "D:0:0:{C2CC93D8-087C-4E3B-BF1B-1623FF688E8A}|PedidosApp_CristianPrimeraV2\\PedidosApp_CristianPrimeraV2.csproj|c:\\users\\user\\onedrive\\escritorio\\herramientasprogramacion\\pedidosapp_cristianprimera\\pedidosapp_cristianprimerav2\\pedidosapp_cristianprimerav2\\ientrega.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -38,24 +38,24 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 1,
+          "SelectedChildIndex": 5,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 3,
               "Title": "Form1.cs",
               "DocumentMoniker": "C:\\Users\\user\\OneDrive\\Escritorio\\HerramientasProgramacion\\PedidosApp_CristianPrimera\\PedidosApp_CristianPrimeraV2\\PedidosApp_CristianPrimeraV2\\Form1.cs",
               "RelativeDocumentMoniker": "PedidosApp_CristianPrimeraV2\\Form1.cs",
               "ToolTip": "C:\\Users\\user\\OneDrive\\Escritorio\\HerramientasProgramacion\\PedidosApp_CristianPrimera\\PedidosApp_CristianPrimeraV2\\PedidosApp_CristianPrimeraV2\\Form1.cs",
               "RelativeToolTip": "PedidosApp_CristianPrimeraV2\\Form1.cs",
-              "ViewState": "AgIAAAcAAAAAAAAAAAAgwA4AAABGAAAAAAAAAA==",
+              "ViewState": "AgIAAAIAAAAAAAAAAAAxwA4AAABGAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-04-30T00:37:22.162Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 5,
               "Title": "Form1.cs [Dise\u00F1o]",
               "DocumentMoniker": "C:\\Users\\user\\OneDrive\\Escritorio\\HerramientasProgramacion\\PedidosApp_CristianPrimera\\PedidosApp_CristianPrimeraV2\\PedidosApp_CristianPrimeraV2\\Form1.cs",
               "RelativeDocumentMoniker": "PedidosApp_CristianPrimeraV2\\Form1.cs",
@@ -67,7 +67,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 4,
               "Title": "RegistroPedidos.cs",
               "DocumentMoniker": "C:\\Users\\user\\OneDrive\\Escritorio\\HerramientasProgramacion\\PedidosApp_CristianPrimera\\PedidosApp_CristianPrimeraV2\\PedidosApp_CristianPrimeraV2\\RegistroPedidos.cs",
               "RelativeDocumentMoniker": "PedidosApp_CristianPrimeraV2\\RegistroPedidos.cs",
@@ -80,39 +80,39 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 2,
               "Title": "Pedido.cs",
               "DocumentMoniker": "C:\\Users\\user\\OneDrive\\Escritorio\\HerramientasProgramacion\\PedidosApp_CristianPrimera\\PedidosApp_CristianPrimeraV2\\PedidosApp_CristianPrimeraV2\\Pedido.cs",
               "RelativeDocumentMoniker": "PedidosApp_CristianPrimeraV2\\Pedido.cs",
               "ToolTip": "C:\\Users\\user\\OneDrive\\Escritorio\\HerramientasProgramacion\\PedidosApp_CristianPrimera\\PedidosApp_CristianPrimeraV2\\PedidosApp_CristianPrimeraV2\\Pedido.cs",
               "RelativeToolTip": "PedidosApp_CristianPrimeraV2\\Pedido.cs",
-              "ViewState": "AgIAAAsAAAAAAAAAAAAQwAgAAAABAAAAAAAAAA==",
+              "ViewState": "AgIAAAcAAAAAAAAAAAAAABEAAAAtAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-04-30T00:33:15.043Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 1,
               "Title": "FactoryMethod.cs",
               "DocumentMoniker": "C:\\Users\\user\\OneDrive\\Escritorio\\HerramientasProgramacion\\PedidosApp_CristianPrimera\\PedidosApp_CristianPrimeraV2\\PedidosApp_CristianPrimeraV2\\FactoryMethod.cs",
               "RelativeDocumentMoniker": "PedidosApp_CristianPrimeraV2\\FactoryMethod.cs",
               "ToolTip": "C:\\Users\\user\\OneDrive\\Escritorio\\HerramientasProgramacion\\PedidosApp_CristianPrimera\\PedidosApp_CristianPrimeraV2\\PedidosApp_CristianPrimeraV2\\FactoryMethod.cs",
               "RelativeToolTip": "PedidosApp_CristianPrimeraV2\\FactoryMethod.cs",
-              "ViewState": "AgIAAAQAAAAAAAAAAAAmwA8AAAA2AAAAAAAAAA==",
+              "ViewState": "AgIAAAQAAAAAAAAAAAAmwBgAAAAJAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-04-30T00:31:19.88Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 0,
               "Title": "EstrategiasEntrega.cs",
               "DocumentMoniker": "C:\\Users\\user\\OneDrive\\Escritorio\\HerramientasProgramacion\\PedidosApp_CristianPrimera\\PedidosApp_CristianPrimeraV2\\PedidosApp_CristianPrimeraV2\\EstrategiasEntrega.cs",
               "RelativeDocumentMoniker": "PedidosApp_CristianPrimeraV2\\EstrategiasEntrega.cs",
               "ToolTip": "C:\\Users\\user\\OneDrive\\Escritorio\\HerramientasProgramacion\\PedidosApp_CristianPrimera\\PedidosApp_CristianPrimeraV2\\PedidosApp_CristianPrimeraV2\\EstrategiasEntrega.cs",
               "RelativeToolTip": "PedidosApp_CristianPrimeraV2\\EstrategiasEntrega.cs",
-              "ViewState": "AgIAAAcAAAAAAAAAAAAIwBMAAAA5AAAAAAAAAA==",
+              "ViewState": "AgIAAAoAAAAAAAAAAAAiwB8AAAAJAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-04-30T00:28:20.427Z",
               "EditorCaption": ""
@@ -127,8 +127,7 @@
               "RelativeToolTip": "PedidosApp_CristianPrimeraV2\\IEntrega.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAZAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-04-30T00:24:17.464Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-04-30T00:24:17.464Z"
             }
           ]
         }

@@ -10,11 +10,12 @@ namespace PedidosApp_CristianPrimeraV2
 {
     public class FactoryMethod
     {
-        public static IMetodoEntrega CrearEntrega(string tipoProducto, bool urgente, double
-        peso)
+        public static IMetodoEntrega CrearEntrega(string tipoProducto, bool urgente, double peso)
         {
             if (tipoProducto == "tecnología" && urgente)
                 return new EntregaDron();
+            else if (tipoProducto == "accesorio" && peso < 2 && !urgente)
+                return new EntregaBicicleta();
             else if (tipoProducto == "accesorio")
                 return new EntregaMoto();
             else if (tipoProducto == "componente" || peso > 10)

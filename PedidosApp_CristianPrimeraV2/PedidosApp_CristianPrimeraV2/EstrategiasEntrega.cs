@@ -24,5 +24,11 @@ namespace PedidosApp_CristianPrimeraV2
             public double CalcularCosto(int km) => 5 * km;
             public string TipoEntrega() => "Camión";
         }
+
+        public class EntregaBicicleta : IMetodoEntrega
+        {
+            public double CalcularCosto(int km) => 3 * km;
+            public string TipoEntrega() => "Bicicleta";
+        }
     }
 }
