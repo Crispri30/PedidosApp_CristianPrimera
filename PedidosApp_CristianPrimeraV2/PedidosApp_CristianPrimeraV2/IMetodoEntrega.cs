@@ -6,12 +6,9 @@ using System.Threading.Tasks;
 
 namespace PedidosApp_CristianPrimeraV2
 {
-    public class IEntrega
+    public interface IMetodoEntrega
     {
-        public interface IMetodoEntrega
-        {
-            double CalcularCosto(int km);
-            string TipoEntrega();
-        }
+        double CalcularCosto(int km);
+        string TipoEntrega();
     }
 }

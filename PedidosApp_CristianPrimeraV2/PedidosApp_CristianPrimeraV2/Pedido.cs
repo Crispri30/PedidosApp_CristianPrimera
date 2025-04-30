@@ -3,8 +3,7 @@ using System.Collections.Generic;
 using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
-using static PedidosApp_CristianPrimeraV2.IEntrega;
-
+using static PedidosApp_CristianPrimeraV2.IMetodoEntrega;
 namespace PedidosApp_CristianPrimeraV2
 {
     public class Pedido

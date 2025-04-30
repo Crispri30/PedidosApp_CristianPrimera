@@ -5,6 +5,12 @@ namespace PedidosApp_CristianPrimeraV2
         public Form1()
         {
             InitializeComponent();
+            cmbProducto.Items.AddRange(new string[] {
+                "accesorio",
+                "tecnología",
+                "componente"
+            });
+            cmbProducto.SelectedIndex = 0;
         }
 
         private void btnCalcular_Click(object sender, EventArgs e)
@@ -25,6 +31,11 @@ namespace PedidosApp_CristianPrimeraV2
             {
                 MessageBox.Show("Error: " + ex.Message);
             }
+        }
+        private void bttHistorial_Click(object sender, EventArgs e)
+        {
+            HistorialPedido historialForm = new HistorialPedido();
+            historialForm.ShowDialog();
         }
     }
 }
