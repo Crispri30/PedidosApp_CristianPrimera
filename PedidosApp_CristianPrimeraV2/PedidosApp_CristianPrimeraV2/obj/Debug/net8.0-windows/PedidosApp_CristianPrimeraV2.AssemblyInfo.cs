@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("PedidosApp_CristianPrimeraV2")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+914833e4469151e9e87797e09fb9cb5e05818992")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+43db2494a6498cc1e47fb706bb3492811a075983")]
 [assembly: System.Reflection.AssemblyProductAttribute("PedidosApp_CristianPrimeraV2")]
 [assembly: System.Reflection.AssemblyTitleAttribute("PedidosApp_CristianPrimeraV2")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
